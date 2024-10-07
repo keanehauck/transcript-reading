@@ -1,0 +1,582 @@
+PDF is not searchable. Running OCR on C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2020-06-25 UCOL 113487776.pdf...
+No rotation needed.
+Student ID: 103273 Grade: TwelfthGrade LEXINGTON HIGH SCHOOL
+
+Gender: 801 E Broadway
+
+Female
+
+***** FINAL TRANSCRIPT ***** Lexington, OK 73081
+
+Student Name: ALI ZAYLAKI CADA HYDE || Transcript of Courses Taken | Schoo! Name/Address:
+
+SSN: XXX-XX--4225, Date of Birth: 02/20/2003 Class of 2020 Counselor:
+Parent/Guardian: Date Uploaded: 6/15/2020 7:52:52 AM PT
+
+8080 LEWIS ROAD Graduation Date: 5/15/2020
+
+LEXINGTON, OK73051
+
+Crs Course Title Mark Credit |Crs Course Title Mark Credit GPA Summary
+La
+Found 'ALG' after OCR in C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2020-06-25 UCOL 113487776.pdf
+Full line: ['ALGEBRA | c oS', 'ALGEBRA jl BS GRADUATION PURPOSES.', 'ALGEBRA II c 5']
+
+Search string found in C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2020-06-25 UCOL 113487776.pdf
+
+
+PDF is not searchable. Running OCR on C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2020-11-03 Price 113567869.pdf...
+No rotation needed.
+SR Transcript 1 upload
+
+Bishop McGuinness High School
+801 N.W. 50th Street
+
+Official Transcript
+
+STUDENT NAME: Reininger, Jackson Dane Oklahoma City, OK
+GRADE: 12 BIRTH DATE: 06/17/2002 Gender: M (405) 842-6638
+Home Phone: 405-202-4183 Fax: (405)-848-9550
+
+SEMESTER 1 | SEMESTER 2 SEMESTER 1| SEMESTER 2
+
+7-18 Bishop McGuinness Catholic High School
+Revelation in Scripture: The Bible C 0.50
+
+Jesus the Christ B 0.50
+English 1 B 0.50 B 0.50
+Algebra 1 D 0.50 D 0.50
+Methods of Science B 0.50 B 0.50
+Okl
+Found 'ALG' after OCR in C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2020-11-03 Price 113567869.pdf
+Full line: ['Algebra 1 D 0.50 D 0.50', 'Algebra 2 Cc 0.50 Cc 0.50']
+
+Search string found in C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2020-11-03 Price 113567869.pdf
+
+
+PDF is not searchable. Running OCR on C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2020-11-09 GCoE 113558382.pdf...
+No rotation needed.
+SR Transcript 1 upload
+
+Yukon High School
+1777S. Yukon Parkway
+Yukon, Oklahoma 73099
+Phone: (405) 354-6692 Fax: (405) 354-8411 web: www.yukonps.com
+Last name First name Middle name Date of Birth | State ID Status School Entry Date
+Nguyen Quynh Huong 06/14/2003 | 1001771374 Enrolled 08/17/2017
+Total Credits Weighted GPA. Unweighted GPA Current Class Rank Percentile Local Student ID
+39.00 4.6216 4.0000 :
+
+4 out of 480
+includes subjects Failed or Repeated Semester 1 Semester 2 “(Hi
+Grade/Credits Gr
+Found 'ALG' after OCR in C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2020-11-09 GCoE 113558382.pdf
+Full line: ['4412 Pre-AP Algebra Il ; A 1.00', '5213 AP Physics I: Algebra-Based : A 1.00 i']
+
+Search string found in C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2020-11-09 GCoE 113558382.pdf
+
+
+PDF is not searchable. Running OCR on C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2020-12-03 AS 113559819.pdf...
+No rotation needed.
+No rotation needed.
+SR Transcript 1 upload
+
+STATE OF TEXAS
+ACADEMIC ACHIEVEMENT RECORD
+(ACCREDITED)
+Adlan Laddada Parent/Guardian: ALLEN ISD
+Student ID: 236408 Anissa & Messaoud Laddada ALLEN HIGH SCHOOL
+Social Security Number:633-84-9437 830 Water Oak Dt 300 Rivererest Blvd
+DOB: 11/16/2002 Allen, TX 75002 Allen TX 73002-3607
+eae whit (972) 727-0400
+ion-Hispanic, White 7
+SUBJECT PERFLVL ADMIN YEAR — Score Schools Awarding Credit:
+. English Meets Spring 2018 4389 2017 043901042/043901042
+Graduation Program Type FOUN
+Found 'ALG' after OCR in C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2020-12-03 AS 113559819.pdf
+Full line: ['= NNN Algebral Masters. Spring 217 4333 2020 043901001/043901001', '2017 J ALG LN 94 0.500. 2019 [STULEAD 100 100 1.060,', '2017, [ALG LN 3 0.500 2020_[PAALI 100 0.500', '2019 [ALG 2:9 84 78 1,000 2021_|PEACEI 0.000', 'Algebral Masters Spring 2017-4333']
+
+Search string found in C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2020-12-03 AS 113559819.pdf 
+
+
+PDF is not searchable. Running OCR on C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2021-01-08 AS 113530560.pdf...
+No rotation needed.
+No rotation needed.
+No rotation needed.
+No rotation needed.
+District Name: LAWTON Kemper, Nasir Eugene
+
+District Number: 161008 Student Number: 673021 Grade: 12 Tel: (580)919-0420
+MacArthur High School Official Transcript 1206 SW 25th St, Lawton, OK 73505
+Tel: (580)355-5230 Generated on 01/06/2021 12:48:19PM Page 1 of1
+
+4402 E. Gore Blvd., Lawton, OK 73507
+
+consist of scores from multiple administrations of the
+assessment. Therefore, the composite score should
+not be interpreted to be comprised of the subtest
+
+Student Number: 673021 Grade: 12
+Birthdate:
+Found 'ALG' after OCR in C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2021-01-08 AS 113530560.pdf
+Full line: ['State ID: 1001925979 4412 Algebra II (1st Sem) A 0.5000 0.5 scores shown.', 'Percentile 68.28% 4412 Algebra II (2nd Sem) A 0.5000 0.5 History and Citizenship Skills 3.000 3.000', '4411 Algebra I (1st Sem) A 0.5000 0.5', '4411 Algebra I (2nd Sem) A 0.5000 0.5 Score: 13 Date:', 'State ID: 1001925979 4412 Algebra II (1st Sem) A 0.5000 0.5 scores shown.', 'Percentile 68.28% 4412 Algebra II (2nd Sem) A 0.5000 0.5 History and Citizenship Skills 3.000 3.000', '4411 Algebra I (1st Sem) A 0.5000 0.5', '4411 Algebra I (2nd Sem) A 0.5000 0.5 Score: 13 Date:']
+
+Search string found in C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2021-01-08 AS 113530560.pdf 
+
+
+PDF is not searchable. Running OCR on C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2021-06-14 AS 113548615.pdf...
+No rotation needed.
+FR Transcript
+
+Jenks High School Transcript
+
+School Code: 371905
+205 E B Street
+Jenks, OK 74037
+
+Student Name: | Zemanek , Emma Ann Total Credits: 29.5000
+Student ID: 32541 Gender: F Cummulative GPA: 3.9804 Un-Weighted
+Birth Date: 06/09/2003 Cummulative GPA: 4.2941 Weighted
+Address: 7426 S Knoxville Ave Tulsa 74136 Class Size 805 Tel: 918-299-4411
+State ID: 1001849482 NOTE: The Arts P 2 Sets/Competencies Class Rank JHS Does NOT rank Fax: 918-298-0336
+
+1s SEM 1 SEM 2 SEM 1 SEM 2
+
+19-20 Jenks High
+Found 'ALG' after OCR in C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2021-06-14 AS 113548615.pdf
+Full line: ['8 §=—5123 Algebra | 19-20 TULSA COMMUNITY COLLEGE', '5183 Pre-AP Algebra I!', '6243 AP Environmental Sci Algebra tl EO! ELA CCRA:']     
+
+Search string found in C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2021-06-14 AS 113548615.pdf 
+
+
+PDF is not searchable. Running OCR on C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2021-06-17 Price 113543179.pdf...
+No rotation needed.
+FR Transcript
+
+LOYOLA ACADEM)
+
+JESUIT COLLEGE PREPARATORY SCHOOL | 1100 LARAMIE AVENUE | WILMETTE, IL 60091-1089 | TEL 847.256.1100 | FAX 847.853.4512 | SCHOOL CODE 144403
+
+Student: Jake Lucas Moser Par/Guar: Entrance Date: 6/12/2017
+ID: 213646 531 Laurel Avenue Withdraw Date:
+Gender: “ DOB; 03/13/2003 Wilmette, IL 60091 Re-Ent Date:
+Class of; 2021 Tek: 3092126780 Graduation: 05/22/2021
+YEAR | COURSE THLE sem1| Sem2 | inProg | Earned | Eamed Tot GRADING SYSTEM:
+Passing Marks are 100-60 ~~ .
+Engl
+Found 'ALG' after OCR in C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2021-06-17 Price 113543179.pdf
+Full line: ['2018 | Hnrs Algebra 1 83 80 0.00 1.00 COURSE WEIGHTING:', '2020 |Algebra 2 85 88 0.00 1.00 Advanced Placement (AP) courses are given a 1.08 multiplier']
+
+Search string found in C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2021-06-17 Price 113543179.pdf
+
+
+PDF is not searchable. Running OCR on C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2021-06-18 GCoE 113537330.pdf...
+No rotation needed.
+No rotation needed.
+Bixby High School Transcript
+
+Student Name: Jackson, Sarah Ashleigh Total Units Earned: 28.0 Grade Scaie: 601 S. Riverview
+
+A=90- 100%
+Birth Date: 12/27/2002 Gender: F
+
+Cumulative GPA: 3.7000 on a 4.0 scale B= 80-89% Bixby, OK 74008
+Class Rank: 418 out of 434 C= 70-79% (918) 366-2222
+
+Address: 9460 Bast 140th Street South, Bixby, OK 74008 Weighted GPA: 4.2200 - June 9, 2021
+Weighted Class Ran! 67 out of 434
+
+20-21 Bixby High School 9 Pre-AP Alg I-9
+12. AP Calculus AB ; : 9 Pre-AP Biology
+12 Band
+Found 'ALG' after OCR in C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2021-06-18 GCoE 113537330.pdf
+Full line: ['20-21 Bixby High School 9 Pre-AP Alg I-9', 'Work Study Internship 12 .! 9 Algebra 1 (7th)']
+
+Search string found in C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2021-06-18 GCoE 113537330.pdf
+
+
+PDF is not searchable. Running OCR on C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2021-10-07 GCoE 113528304.pdf...
+No rotation needed.
+SANTA FE SOUTH
+PATHWAYS MIDDLE COLLEGE
+7777S. May Ave.
+
+Oklahoma City, OK 73159
+(405) 682-7840
+
+FAX (405)682-7883
+
+SEM 1 SEM 2 | CREDIT: ACT TESTS (372-708) SAT/PSAT TEST
+20-21 Santa Fe South Pathways M iqdie College
+EARTH SCIENCE (C)
+ENGLISH COMPOSITION 1 (C) A
+FUNCTIONS & MODELING (C) A
+GENERAL BIOLOGY 1 (MAJOR) (C)
+INTRO TO COMPUTERS/APPL (C)
+INTRO TO NUTRITION (C)
+MUSIC APPRECIATION (C)
+SCIENCE OF FOOD AND COOKING
+STRESS MANAGEMENT (C)
+SUCCESS IN COLLEGE AND LIFE (C)
+U.S. HISTORY 1877 TO PRE
+Found 'ALG' after OCR in C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2021-10-07 GCoE 113528304.pdf
+Full line: ['ALGEBRA 2', 'ALGEBRA 1', 'ALGEBRA 1 (8TH GRADE)']
+
+Search string found in C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2021-10-07 GCoE 113528304.pdf
+
+
+PDF is not searchable. Running OCR on C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2021-11-01 AS 113535907.pdf...
+Rotation needed.
+SR Transcript 1 upload
+
+Jenks High School Transcript
+
+School Code: 371905
+205 E B Street
+Jenks, OK 74037
+
+Student Name: | Saeed , Hamza Mohammad Total Credits: 20.0000
+Student ID: 124451 Gender: M Cummulative GPA: 3.8889 Un-Weighted
+Birth Date: 06/07/2004 Cummulative GPA: 4.0000 Weighted
+Address: 1027 West 87th St S Tulsa 74132 Class Size 876 Tel: 918-299-4411
+State ID: 1002400611 Class Rank JHS Does NOT rank Fax: 918-298-0336
+
+1s SEM 1 SEM 2 SEM 1 SEM 2
+
+17-18 Clyde Boyd Md School
+8 Algebra |
+8
+Found 'ALG' after OCR in C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2021-11-01 AS 113535907.pdf
+Full line: ['8 Algebra |', '5183 Pre-AP Algebra Ii', 'Algebral EOt: Math =CCRA:', 'Algebra ll EOt: ELA CORA:']
+
+Search string found in C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2021-11-01 AS 113535907.pdf 
+
+
+PDF is not searchable. Running OCR on C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2021-11-01 AS 113599402.pdf...
+No rotation needed.
+SR Transcript 1 upload
+
+Choctaw High School Transcript
+
+Jackie Harris, Principal
+14300 NE 10th Street, Choctaw, OK 73020
+Office: 405-390-8899 Fax: 405-390-2275
+
+Armstrong. Brianna Nicole Grade: 12 Date of Birth: 09/13/2003 Graduation Date:
+
+Student Number: +5725 Address: 7609 Deer Meadow Dr, Oklahoma City, OK 73150
+
+Total Credits Unweighted GPA Unweighted Rank Weighted GPA Weighted Rank
+27.0 4,000 1 out of 348 4.080 25 out of 348
+
+Block £ Block 2 Block 3 Block 4 National ACT Scores (Highest in e
+Found 'ALG' after OCR in C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2021-11-01 AS 113599402.pdf
+Full line: ['11 Honors Algebra tI A 050) A 050 | 94/06/2021 1g 18 W 20 uv', '10 Pre-AP Algebra If A 050} A 050', '8 Algebra [ A 050 A 050', 'Concurrent College - College Algebra > wes 3 2']
+
+Search string found in C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2021-11-01 AS 113599402.pdf 
+
+
+PDF is not searchable. Running OCR on C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2021-11-17 Price 113603603.pdf...
+No rotation needed.
+Putnam City North High School
+
+11800 N Rockwell
+Oklahoma City, OK 73162
+405-722-4220
+
+Official Transcript Fax: 406-721-4946
+
+Reynolds, Jake Branson 392416 12 M 07/24/2003
+
+Student Address 600 NW 4th St #207 Oklahoma City, OK 73102
+
+Enter Date: 08/16/2021 Enrollment Status as of 10/27/21: Current Graduation Date:
+
+aes 1 ae = 3 Q4/S2 a 1 an Qtr3 Q4/s2
+Course No. Course Title Gr. Cr. [ Course No. Course Title Gr. Cr. [Gr. Cr.
+
+17-18 Classen HS Advanced Studies} 20-21 Classen HS Advanced Studies|
+“~
+Found 'ALG' after OCR in C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2021-11-17 Price 113603603.pdf
+Full line: ['4444 Algebra for HS Credit . . 1274051 English Il', '1274412 — Algebra II Honors']
+
+Search string found in C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2021-11-17 Price 113603603.pdf
+
+
+PDF is not searchable. Running OCR on C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2022-06-03 AS 113528052.pdf...
+No rotation needed.
+No rotation needed.
+No rotation needed.
+No rotation needed.
+Student Transcript
+
+Denton, Kaitlyn Elizabeth Wakeland High School Frisco ISD
+9704 Hawks Landing Dr 10700 Legacy Drive
+Frisco, TX 75033 Frisco, TX 75033 (469) 633-5700
+
+CEEB#: 442602
+= 632929411 e
+
+Not Hispanic/Latino:
+White
+
+Department: Mathematics
+ee ae es Se a
+2019 043905005 ENG 1 9 2018 043905053 03100500
+2020 043905005: “ OO MENG OE eas : 4 2 oe 201 043905005. 03100700. =
+2021 043905005 APENGLAN 2020 043905005 03100600
+-2022,,043905005 43220200 APENGLIT. 4 P98 F eo 2024 043905005 "03101100
+Found 'ALG' after OCR in C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2022-06-03 AS 113528052.pdf
+Full line: ['98 98 83 English Language —_ English Literature Composition Vail College Algebra', 'See 89 a9 Algebra | & tl Art] & tl National Art Honor Society Football Golf - Boys/Girls']
+
+Search string found in C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2022-06-03 AS 113528052.pdf 
+
+
+PDF is not searchable. Running OCR on C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2022-06-07  113602229.pdf...
+No rotation needed.
+Official Transcript
+Prepared for: University of Oklahoma on 06/06/2022
+DID#: TWSJ8BOM
+
+Parchment Student ID: 48297923
+Page 1 of 1
+
+District Name: MOORE TRAN, LARRY HOANG NGHIA
+District Number: 141002 Student Number: 1036431 Grade: 12
+Westmoore Official Transcript 1513 SW 131ST ST , OKLAHOMA CITY, OK 73170
+
+Tel: (405)735-4800 | Generated on 06/06/2022 06:24:54 PM Page 1 of 1
+12613 S Western Av, Okla City, OK 73170
+
+Student Information
+
+Student Number: 1036431 Grade: 12 represent the student's bes
+Found 'ALG' after OCR in C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2022-06-07  113602229.pdf 
+Full line: ['9110 PRE-AP ALG IIL A 1.0000 0.:', '9013 ALGEBRA I PRE-AP. A 1.0000 05 | 2920-2021 Grade 11 Term2 Rhodes and tindse ,', '9013 ALGEBRA I PRE-AP A 1.0000 0.5 | 78024 CE GENERAL 1.0000', '9110 PRE-AP ALG IL A 1.0000 0: Score:340']
+
+Search string found in C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2022-06-07  113602229.pdf   
+
+
+PDF is not searchable. Running OCR on C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2022-06-07 GCoE 113602229.pdf...
+No rotation needed.
+Official Transcript
+Prepared for: University of Oklahoma on 06/06/2022
+DID#: TWSJ8BOM
+
+Parchment Student ID: 48297923
+Page 1 of 1
+
+District Name: MOORE TRAN, LARRY HOANG NGHIA
+District Number: 141002 Student Number: 1036431 Grade: 12
+Westmoore Official Transcript 1513 SW 131ST ST , OKLAHOMA CITY, OK 73170
+
+Tel: (405)735-4800 | Generated on 06/06/2022 06:24:54 PM Page 1 of 1
+12613 S Western Av, Okla City, OK 73170
+
+Student Information
+
+Student Number: 1036431 Grade: 12 represent the student's bes
+Found 'ALG' after OCR in C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2022-06-07 GCoE 113602229.pdf
+Full line: ['9110 PRE-AP ALG IIL A 1.0000 0.:', '9013 ALGEBRA I PRE-AP. A 1.0000 05 | 2920-2021 Grade 11 Term2 Rhodes and tindse ,', '9013 ALGEBRA I PRE-AP A 1.0000 0.5 | 78024 CE GENERAL 1.0000', '9110 PRE-AP ALG IL A 1.0000 0: Score:340']
+
+Search string found in C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2022-06-07 GCoE 113602229.pdf
+
+
+PDF is not searchable. Running OCR on C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2022-06-13 AS 113528052.pdf...
+Rotation needed.
+Rotation needed.
+FR Transcript
+
+5/31/2022 Student Transcript Page 1 of 2
+Wakeland High School Frisco ISD
+9704 Hawks Landing Dr 10700 Legacy Drive
+Frisco, TX 75033 Frisco, TX 75033 (469) 633-5700
+
+CEEB#: 442602
+es
+
+632929411
+Not Hispanic/Latino
+White
+bE neon
+Department: Language Arts Department: Mathematics
+
+2019. 043905005:
+2020 043905005 —
+2024 043905005 ees : : :
+2022 043905005 3100101 APCALCAB “91 P 92 P 1
+
+Department: Science Department: Social Studies
+
+SSS 2020 043905005 ‘3370100 APWHIST
+4 2021 0439050 3340
+Search string not found in C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2022-06-13 AS 113528052.pdf
+
+
+PDF is not searchable. Running OCR on C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2022-06-15 Price 113546652.pdf...
+No rotation needed.
+Jenks High School Transcript
+
+Student Name: | Harris , Nathanael Toliver Total Credits: 31.5000 School Code: 371905
+Student ID: 999051 Gender: M Cumulative GPA: 3.5789 Un-Weighted 205 E B Street
+
+Birth Date: 07/06/2004 Cumulative GPA: 3.7544 Weighted Jenks, OK 74037
+Address: 2937 E 104Th St Tulsa 74137 Class Size 877 Tel: 918-299-4411
+State ID: 1003022552 NOTE: The Arts P 2 Sets/Competencies Class Rank JHS Does NOT rank Fax: 918-298-0336
+
+SEM 1 SEM2 SEM 1 SEM 2
+
+20-21 Jenks High School
+17-18 KLE
+Found 'ALG' after OCR in C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2022-06-15 Price 113546652.pdf
+Full line: ['PRE-AP ALGEBRA | 11 7383 AP US History', '10 ALGEGRA II']
+
+Search string found in C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2022-06-15 Price 113546652.pdf
+
+
+PDF is not searchable. Running OCR on C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2022-07-06 GCoE 113592644.pdf...
+No rotation needed.
+Official Transcript
+
+Prepared for: University of Oklahoma on 06/21/2022
+DID#: TWSI5U8M
+
+Parchment Student ID: 53288201
+
+Page 1 of 1
+
+STATE OF TEXAS ACADEMIC ACHIEVEMENT RECORD (ACCREDITED)
+
+Morgan Hailey O'Malley Parents/Guardian Georgetown ISD
+
+ID: 544481 Angela O'Malley Georgetown High School
+SSN: 322-04-5541 1201 Whippletree Trl 2211 N Austin Ave
+
+DOB: 05/11/2004 Georgetown, TX 78626 Georgetown TX 78626-4504
+Gender: FEMALE Phone: (512) 943-5100
+Ethnicity, Race: Non-Hispanic, Asian, White CCBC
+Found 'ALG' after OCR in C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2022-07-06 GCoE 113592644.pdf
+Full line: ['Algebra | N/A 08/20/2020', '2019 ALG1 03100500 : 2022 PASWD1 N1290203', '2021 ALG2 03100600']
+
+Search string found in C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2022-07-06 GCoE 113592644.pdf
+
+
+PDF is not searchable. Running OCR on C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2022-09-16 AS 113584190.pdf...
+Rotation needed.
+Rotation needed.
+Rotation needed.
+SR Transcript 1 upload
+
+9/8/2022 Student Transcript Page 1 of 3
+‘Student: Skibar, Morgan Danielle Byron Nelson High School Nowe Independent School
+istric
+3957 Kennedy Ranch Rd 2775 Bobcat Boulevard
+Roanoke, TX 76262 Trophy Club, Tx 76262 (617) 698-5600
+
+CEEB#: 444916
+
+6/23/2005 (908) 547-9260 152151755
+1030156 12 Not Hispanic/Latino
+Tara Skibar FE White
+FHSP Tac 74.1021 gr 9 2014 & prior w/FHSP option 6926125961
+
+Year: 2018-2019 Gr: 08 Year: 2019-2020 Gr: 09
+Building: John M Tidwell Middle Schoo
+Found 'ALG' after OCR in C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2022-09-16 AS 113584190.pdf
+Full line: ['Readiness MA 03100500 ALG1 91 99 95 1', 'PE PES00054 PEAA 100 0.5 MA 03100600 ALG2 74 D 8 D 79 D1', 'English | Exempt 2020 Waived Algebra | Exempt 2020 Waived Biology Exempt 2020 Waived US History 4292 Spring 2022']
+
+Search string found in C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2022-09-16 AS 113584190.pdf 
+
+
+PDF is not searchable. Running OCR on C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2023-06-08 GCoE 113543107.pdf...
+No rotation needed.
+COMMUNITY CHRISTIAN SCHOOL
+Academic Achievement Record
+
+Full Legal Name: Gabriel Hansen School Address: 3002 Broce Drive GRADING SCALE
+DOB: 10/14/2004 Norman, OK 73072 PERCENT WEIGHTED | UNWEIGHTED
+Parent or Guardian: Du Verney, Kasey School Phone: (405) 329-2500 5.0 4.0
+Address: 967 Country St. 2983 School Fax: (405) 515-8481 4.0 3.0
+Blanchard, OK 73010 School Code: 372552 3.0 2.0
+Graduation Date: 05/20/2023 2.0 1.0
+or Withdrawal Date: F=Below 60 0.0 0.0
+NC=No Credit due to excessive absences
+C
+Found 'ALG' after OCR in C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2023-06-08 GCoE 113543107.pdf
+Full line: ['Credits: 1.00 GPA: 4.00 UGPA: 4.00 "1 2021-2022 Algebra ti Honors 93 | 90 | 1.0 ccs', '09 [2019-2020 Algebra! 91 | 87 | 1.0 ccs " 2021-2022 American History 95 | 94 | 1.0 ccs']
+
+Search string found in C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2023-06-08 GCoE 113543107.pdf
+
+
+PDF is not searchable. Running OCR on C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2023-06-16 Price 113543190.pdf...
+Rotation needed.
+Rotation needed.
+Bixby High School Transcript
+
+Student Name: Tenison, Lucas Allan Total Units Earned: 29.5 ora sone 601 S. Riverview
+. . . Cumulative GPA: 3.8571 on a 4.0 scale B=80-89% Bixby, OK 74008
+
+Birth Date: 05/03/2005 Gender: M Class Rank: 86 out of 485 C=70-79% (918) 366-2222
+
+Address: 14884 S Irvington Ave, Bixby, OK 74008 Weighted GPA: 4.4898 D=60- 69% June 12, 2023
+
+Weighted Class Ran 28 out of 485 - 59%
+
+22-23 Bixby High Schoo! Honors Biology |
+American Federal Government OU : Honors English |
+Athle
+Found 'ALG' after OCR in C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2023-06-16 Price 113543190.pdf
+Full line: ['9 Honors Algebra | - 9']
+
+Search string found in C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2023-06-16 Price 113543190.pdf
+
+
+PDF is not searchable. Running OCR on C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2023-07-17 Price 113568587.pdf...
+No rotation needed.
+Yukon High School
+1777 S. Yukon Parkway, Yukon, OK 73099-3884
+Phone: 405-354-6692 Fax: 405-354+6640
+Website: www.yukonps.com
+
+ACT English eS ;
+ACT. Math oe :
+ACT_Reading :
+
+Biology |
+English *
+Keystone
+Oklahoma History
+Personal Finance
+
+04/13/0022 (480
+
+O47 372028
+O47t3n022_ [800
+
+Toons
+Pexciari-secron ——
+
+Chemistry
+ce cc
+
+Geometry
+Introduction to Entrepreneurship
+
+Leadership Result
+
+“04/1 ‘i022 Basic
+04/13/2022 Basic
+04/11/2022, Basic
+
+9)
+APU. 2 History* 04/18/2022 __ Proficient
+
+Algebra:ll
+B.
+Found 'ALG' after OCR in C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2023-07-17 Price 113568587.pdf
+Full line: ['Algebra:ll']
+
+Search string found in C:/Users/635at/Documents/_K Files/_Research/First-Year Retention/TranscriptScraping/Transcripts\Y 2023-07-17 Price 113568587.pdf
+
+
+PS C:\Users\635at\Documents\_K Files\_Research\First-Year Retention\TranscriptScraping> 
